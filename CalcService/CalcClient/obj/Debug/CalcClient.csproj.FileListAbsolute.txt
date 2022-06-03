@@ -1,0 +1,7 @@
+C:\Users\tawer\source\repos\CalcService\CalcClient\bin\Debug\CalcClient.exe.config
+C:\Users\tawer\source\repos\CalcService\CalcClient\bin\Debug\CalcClient.exe
+C:\Users\tawer\source\repos\CalcService\CalcClient\bin\Debug\CalcClient.pdb
+C:\Users\tawer\source\repos\CalcService\CalcClient\obj\Debug\CalcClient.csproj.CoreCompileInputs.cache
+C:\Users\tawer\source\repos\CalcService\CalcClient\obj\Debug\CalcClient.exe
+C:\Users\tawer\source\repos\CalcService\CalcClient\obj\Debug\CalcClient.pdb
+C:\Users\tawer\source\repos\CalcService\CalcClient\obj\Debug\CalcClient.csprojAssemblyReference.cache

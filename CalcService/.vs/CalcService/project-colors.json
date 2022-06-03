@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "62a6862b-bdff-4139-9799-05723e68f85a": {
+      "ProjectGuid": "62a6862b-bdff-4139-9799-05723e68f85a",
+      "DisplayName": "CalcInterfaces",
+      "ColorIndex": 0
+    },
+    "068caed0-a070-435f-9b1d-abdc93533fc4": {
+      "ProjectGuid": "068caed0-a070-435f-9b1d-abdc93533fc4",
+      "DisplayName": "CalcServer",
+      "ColorIndex": 1
+    },
+    "cc42e7b1-10d3-4756-b4aa-e4ebdd695de4": {
+      "ProjectGuid": "cc42e7b1-10d3-4756-b4aa-e4ebdd695de4",
+      "DisplayName": "CalcClient",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

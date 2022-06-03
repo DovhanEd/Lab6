@@ -1,0 +1,10 @@
+C:\Users\tawer\source\repos\CalcService\CalcServer\bin\Debug\CalcServer.exe.config
+C:\Users\tawer\source\repos\CalcService\CalcServer\bin\Debug\CalcServer.exe
+C:\Users\tawer\source\repos\CalcService\CalcServer\bin\Debug\CalcServer.pdb
+C:\Users\tawer\source\repos\CalcService\CalcServer\bin\Debug\CalcInterfaces.dll
+C:\Users\tawer\source\repos\CalcService\CalcServer\bin\Debug\CalcInterfaces.pdb
+C:\Users\tawer\source\repos\CalcService\CalcServer\obj\Debug\CalcServer.csprojAssemblyReference.cache
+C:\Users\tawer\source\repos\CalcService\CalcServer\obj\Debug\CalcServer.csproj.CoreCompileInputs.cache
+C:\Users\tawer\source\repos\CalcService\CalcServer\obj\Debug\CalcServer.csproj.CopyComplete
+C:\Users\tawer\source\repos\CalcService\CalcServer\obj\Debug\CalcServer.exe
+C:\Users\tawer\source\repos\CalcService\CalcServer\obj\Debug\CalcServer.pdb
